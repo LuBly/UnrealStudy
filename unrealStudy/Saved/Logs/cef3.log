@@ -1,0 +1,2 @@
+[0118/180541.373:ERROR:device_event_log_impl.cc(208)] [18:05:41.373] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+[0118/180815.190:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 43
